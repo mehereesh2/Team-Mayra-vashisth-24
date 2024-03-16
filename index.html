@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Hospital Page</title>
+    <script type="text/javascript" src="demo.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our Hospital</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="first_aid.html">First Aid</a></li>
+                <li><a href="Doctors.html">Doctors</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section class="hero">
+        <h2>Your Health, Our Priority</h2>
+        <p>We provide world-class healthcare services.</p>
+        <a class="btn" href="tel: +916301111718">Dial</a>
+
+        <p>Click the button to get your coordinates.</p>
+
+        <button class="btn" onclick="getLocation()">Get Location</button><br>
+        <button class="btn" onclick="sendLocationViaWhatsApp()">Send via WhatsApp</button>
+        
+        <p class="direction" id="demo"></p>
+        
+        <script>
+            var x = document.getElementById("demo");
+            var latitude, longitude;
+        
+            function getLocation() {
+                if (navigator.geolocation) {
+                    navigator.geolocation.getCurrentPosition(function (position) {
+                        latitude = position.coords.latitude;
+                        longitude = position.coords.longitude;
+                        showPosition(position);
+                    });
+                } else {
+                    x.innerHTML = "Geolocation is not supported by this browser.";
+                }
+            }
+        
+            function showPosition(position) {
+                x.innerHTML = "Latitude: " + latitude + "<br>Longitude: " + longitude;
+            }
+        
+            function sendLocationViaWhatsApp() {
+                if (latitude !== undefined && longitude !== undefined) {
+                    var whatsappURL = "https://api.whatsapp.com/send?phone=+91 6301111718&text=Latitude: " + latitude + " Longitude: " + longitude;
+                    // Replace PHONE_NUMBER with the desired WhatsApp number
+                    window.open(whatsappURL, "_blank");
+                } else {
+                    x.innerHTML = "Location not available. Please click 'Get Location' first.";
+                }
+            }
+        </script>
+        
+
+        
+        
+    </section>
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>General Medicine</li>
+            <li>Specialized Care</li>
+            <li>Emergency Services</li>
+            <li>Diagnostic Tests</li>
+            <li>Surgery</li>
+        </ul>
+    </section>
+
+    <section id="doctors">
+        <h2>Our Doctors</h2>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or need to schedule an appointment, please contact us.</p>
+        <a href="tel:+91630111718" class="contact-link">Call Us</a>
+        <a href="mailto:info@xyzmedicalcenter.com" class="contact-link">Email Us</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 XYZ Medical Center</p>
+    </footer>
+    <footer>
+        <p>&copy; 2023 Our Hospital. All rights reserved.</p>
+    </footer>
+</body>
+</html>

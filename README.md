@@ -1,4 +1,4 @@
-Emergency Medical Service (EMS) and SOS Latitude and Longitude Readme
+![WhatsApp Image 2024-03-17 at 11 23 23 AM](https://github.com/mehereesh2/Team-Mayra-vashisth-24/assets/163641653/82732ad7-f380-4c35-8b9a-53e10c6fa687)Emergency Medical Service (EMS) and SOS Latitude and Longitude Readme
 
  Introduction
 This README provides information on how to use the Emergency Medical Service (EMS) and SOS Latitude and Longitude system. This system is designed to facilitate emergency response teams in locating and providing aid to individuals in distress.
@@ -28,11 +28,10 @@ To use the EMS and SOS Latitude and Longitude system, follow these steps:
    - Users can customize their profile settings, including emergency contacts, medical information, and notification preferences.
 
 step by step guide:  1
-![WhatsApp Image 2024-03-17 at 11 23 23 AM](https://github.com/mehereesh2/Team-Mayra-vashisth-24/assets/163641653/a24ecdcc-f878-48f0-951e-24a4f9dc7391)
- 2
-![WhatsApp Image 2024-03-17 at 11 23 23 AM (1)](https://github.com/mehereesh2/Team-Mayra-vashisth-24/assets/163641653/07d21e0d-d396-4a40-b27a-c05010a29c71)
+![WhatsApp Image 2024-03-17 at 11 23 22 AM](https://github.com/mehereesh2/Team-Mayra-vashisth-24/assets/163641653/c8126522-e63f-497e-93fb-b769b3d02e5c)
+2
+![WhatsApp Image 2024-03-17 at 11 23 23 AM](https://github.com/mehereesh2/Team-Mayra-vashisth-24/assets/163641653/8b423970-fa5b-430c-9ced-cb056e209707)
 3
-
-![WhatsApp Image 2024-03-17 at 11 23 22 AM](https://github.com/mehereesh2/Team-Mayra-vashisth-24/assets/163641653/f435ba35-8753-4ef2-8a3e-936921975787)
+![WhatsApp Image 2024-03-17 at 11 23 23 AM](https://github.com/mehereesh2/Team-Mayra-vashisth-24/assets/163641653/68fcdaf6-a01d-4103-a9db-bb83797f58da)
 4
-![WhatsApp Image 2024-03-17 at 11 23 22 AM (1)](https://github.com/mehereesh2/Team-Mayra-vashisth-24/assets/163641653/6787a09f-a9ec-49c4-9a1e-098c72f8268f)
+![WhatsApp Image 2024-03-17 at 11 23 23 AM (1)](https://github.com/mehereesh2/Team-Mayra-vashisth-24/assets/163641653/f5b89e23-c41a-4c3a-8c9f-52296e6f8f66)

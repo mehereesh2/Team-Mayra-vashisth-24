@@ -30,7 +30,8 @@ To use the EMS and SOS Latitude and Longitude system, follow these steps:
 step by step guide:  1
 ![WhatsApp Image 2024-03-17 at 11 23 22 AM](https://github.com/mehereesh2/Team-Mayra-vashisth-24/assets/163641653/c8126522-e63f-497e-93fb-b769b3d02e5c)
 2
-![WhatsApp Image 2024-03-17 at 11 23 23 AM](https://github.com/mehereesh2/Team-Mayra-vashisth-24/assets/163641653/8b423970-fa5b-430c-9ced-cb056e209707)
+![WhatsApp Image 2024-03-17 at 11 23 22 AM (1)](https://github.com/mehereesh2/Team-Mayra-vashisth-24/assets/163641653/03c04450-df81-4445-83aa-96f0e4f6b149)
+
 3
 ![WhatsApp Image 2024-03-17 at 11 23 23 AM](https://github.com/mehereesh2/Team-Mayra-vashisth-24/assets/163641653/68fcdaf6-a01d-4103-a9db-bb83797f58da)
 4

@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-03-17 at 11 23 23 AM](https://github.com/mehereesh2/Team-Mayra-vashisth-24/assets/163641653/82732ad7-f380-4c35-8b9a-53e10c6fa687)Emergency Medical Service (EMS) and SOS Latitude and Longitude Readme
+Emergency Medical Service (EMS) and SOS Latitude and Longitude for accurate service Readme
 
  Introduction
 This README provides information on how to use the Emergency Medical Service (EMS) and SOS Latitude and Longitude system. This system is designed to facilitate emergency response teams in locating and providing aid to individuals in distress.

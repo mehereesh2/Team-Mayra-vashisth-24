@@ -28,11 +28,26 @@ To use the EMS and SOS Latitude and Longitude system, follow these steps:
    - Users can customize their profile settings, including emergency contacts, medical information, and notification preferences.
 
 step by step guide:  1
+
+
 ![WhatsApp Image 2024-03-17 at 11 23 22 AM](https://github.com/mehereesh2/Team-Mayra-vashisth-24/assets/163641653/c8126522-e63f-497e-93fb-b769b3d02e5c)
+
+
 2
+
+
+
 ![WhatsApp Image 2024-03-17 at 11 23 22 AM (1)](https://github.com/mehereesh2/Team-Mayra-vashisth-24/assets/163641653/03c04450-df81-4445-83aa-96f0e4f6b149)
 
 3
+
+
 ![WhatsApp Image 2024-03-17 at 11 23 23 AM](https://github.com/mehereesh2/Team-Mayra-vashisth-24/assets/163641653/68fcdaf6-a01d-4103-a9db-bb83797f58da)
+
+
+
 4
+
+
+
 ![WhatsApp Image 2024-03-17 at 11 23 23 AM (1)](https://github.com/mehereesh2/Team-Mayra-vashisth-24/assets/163641653/f5b89e23-c41a-4c3a-8c9f-52296e6f8f66)
